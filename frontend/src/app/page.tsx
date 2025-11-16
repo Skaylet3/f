@@ -29,8 +29,8 @@ export default function Home() {
                       id: 1,
                       name: 'Pizza super',
                       imageUrl: 'https://pizzavenus.gr/site/wp-content/uploads/2022/03/pizzeria-template-header-pizza-img.png',
-                      price: 15,
-                      items: [{ price: 15 }],
+                      price: 20,
+                      items: [{ price: 20 }],
                     },
                     {
                       id: 2,
@@ -57,14 +57,14 @@ export default function Home() {
                       id: 5,
                       name: 'Pizza super',
                       imageUrl: 'https://pizzavenus.gr/site/wp-content/uploads/2022/03/pizzeria-template-header-pizza-img.png',
-                      price: 15,
+                      price: 20,
                       items: [{ price: 15 }],
                     },
                     {
                       id: 6,
                       name: 'Pizza super',
                       imageUrl: 'https://pizzavenus.gr/site/wp-content/uploads/2022/03/pizzeria-template-header-pizza-img.png',
-                      price: 15,
+                      price: 20,
                       items: [{ price: 15 }],
                     },
                     {
